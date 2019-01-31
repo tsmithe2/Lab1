@@ -1,2 +1,6 @@
 Filler stuff.
+<<<<<<< HEAD
 So I'm writting more stuff. nsdkjsfgiojerpgoje
+=======
+So I'm writting more stuff.
+>>>>>>> myBranch
